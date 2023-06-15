@@ -1,4 +1,4 @@
-# Hello everybody! Welcome to my profile 👋
+# Hello everybody! Welcome to my profile 🥳
 
 ### My name is **Wiktor**. I'm a young aspiring developer from Poland 🇵🇱
 ⚡ My main interests are web development and gamedev\
